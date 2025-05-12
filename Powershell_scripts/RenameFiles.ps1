@@ -3,6 +3,7 @@ $suffix = Read-Host "Enter suffix to append"
 
 if (-not (Test-Path $folderPath)) {
 	Write-Host "The folder does not exist."
+	exit
 }
 
 $files = Get-ChildItem -Path $folderPath
