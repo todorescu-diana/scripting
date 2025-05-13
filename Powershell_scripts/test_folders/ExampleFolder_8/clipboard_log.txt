@@ -1,0 +1,2 @@
+[13/05/2025 16:37:27] PowerShell is awesome.
+[13/05/2025 16:37:36] Scripting is the process of developing small-scale code which automates the execution of a particular task or function.
