@@ -1,5 +1,4 @@
-# Scripting Project [IN PROGRESS]
-
+# Scripting Project  
 This repo contains scripts created for the purposes of both personal learning and utilization.
 
 ## Project structure
